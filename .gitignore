@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/KafkaCustomBaseServices/KafkaPublisherService/obj
+/KafkaCustomBaseServices/KafkaPublisherService/bin/Debug/net8.0
+/KafkaCustomBaseServices/.vs/KafkaCustomBaseServices/v17
+/KafkaCustomBaseServices/.vs/KafkaCustomBaseServices/FileContentIndex
+/KafkaCustomBaseServices/.vs/KafkaCustomBaseServices/DesignTimeBuild

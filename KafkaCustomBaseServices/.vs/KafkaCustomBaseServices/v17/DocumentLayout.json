@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\abhik\\source\\repos\\KafkaServices\\KafkaCustomBaseServices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A3303E-CED6-40D8-B492-D076BE8B61D2}|KafkaConsumerService\\KafkaConsumerService.csproj|c:\\users\\abhik\\source\\repos\\kafkaservices\\kafkacustombaseservices\\kafkaconsumerservice\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A3303E-CED6-40D8-B492-D076BE8B61D2}|KafkaConsumerService\\KafkaConsumerService.csproj|solutionrelative:kafkaconsumerservice\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FA8089-DD0D-40E1-AF47-CD9E9F0B9A8A}|KafkaPublisherService\\KafkaPublisherService.csproj|c:\\users\\abhik\\source\\repos\\kafkaservices\\kafkacustombaseservices\\kafkapublisherservice\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FA8089-DD0D-40E1-AF47-CD9E9F0B9A8A}|KafkaPublisherService\\KafkaPublisherService.csproj|solutionrelative:kafkapublisherservice\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\KafkaServices\\KafkaCustomBaseServices\\KafkaConsumerService\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerService\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\abhik\\source\\repos\\KafkaServices\\KafkaCustomBaseServices\\KafkaConsumerService\\KafkaConsumer.cs",
+              "RelativeToolTip": "KafkaConsumerService\\KafkaConsumer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:01:15.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\KafkaServices\\KafkaCustomBaseServices\\KafkaPublisherService\\KafkaPublisher.cs",
+              "RelativeDocumentMoniker": "KafkaPublisherService\\KafkaPublisher.cs",
+              "ToolTip": "C:\\Users\\abhik\\source\\repos\\KafkaServices\\KafkaCustomBaseServices\\KafkaPublisherService\\KafkaPublisher.cs",
+              "RelativeToolTip": "KafkaPublisherService\\KafkaPublisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:46:23.474Z",
+              "EditorCaption": ""
             }
           ]
         }

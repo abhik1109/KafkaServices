@@ -1,0 +1,13 @@
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\bin\Debug\net8.0\KafkaConsumerService.deps.json
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\bin\Debug\net8.0\KafkaConsumerService.dll
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\bin\Debug\net8.0\KafkaConsumerService.pdb
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.csproj.AssemblyReference.cache
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.AssemblyInfoInputs.cache
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.AssemblyInfo.cs
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.csproj.CoreCompileInputs.cache
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.sourcelink.json
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.dll
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\refint\KafkaConsumerService.dll
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\KafkaConsumerService.pdb
+C:\Users\abhik\source\repos\KafkaServices\KafkaCustomBaseServices\KafkaConsumerService\obj\Debug\net8.0\ref\KafkaConsumerService.dll

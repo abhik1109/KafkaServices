@@ -7,6 +7,13 @@ namespace KafkaProducerBase
 	{
 		private readonly ProducerConfig _producerConfig;
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="kafkaBootstrapServerUrl"></param>
+		/// <param name="clientId"></param>
+		/// <param name="brokerAddressFamily"></param>
+		/// <exception cref="Exception"></exception>
 		public KafkaPublisher(string kafkaBootstrapServerUrl, string clientId, string brokerAddressFamily = "1")
 		{
 			var isValidBrokerAddressFamily = Enum.TryParse(typeof(BrokerAddressFamily), brokerAddressFamily, out var kafkaBrokerAddFamily);
@@ -21,9 +28,14 @@ namespace KafkaProducerBase
 				ClientId = clientId,
 				BrokerAddressFamily = (BrokerAddressFamily)kafkaBrokerAddFamily
 			};
-
-			
 		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="topicName"></param>
+		/// <param name="publishData"></param>
+		/// <returns></returns>
 		public async Task<DeliveryResult<Null, string>> PublishMessage(string topicName, object publishData)
 		{
 			using var producer = new ProducerBuilder<Null, string>(_producerConfig).Build();
